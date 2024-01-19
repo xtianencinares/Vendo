@@ -11,7 +11,7 @@ public class VendingMachine {
         while (true) {
             displayMenu();
 
-            System.out.print("Insert money (0 to exit): ");
+            System.out.print("Insert money (0 to exit): "); 
             double moneyInserted = scanner.nextDouble();
 
             if (moneyInserted == 0) {
