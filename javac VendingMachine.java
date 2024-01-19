@@ -21,7 +21,7 @@ public class VendingMachine {
 
             totalAmount += moneyInserted;
 
-            selectItem(scanner);
+            selectItem(scanner); 
         }
 
         scanner.close();
