@@ -24,7 +24,7 @@ public class VendingMachine {
             selectItem(scanner); 
         }
 
-        scanner.close();
+        scanner.close(); 
     }
 
     private static void displayMenu() {
