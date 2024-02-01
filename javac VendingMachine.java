@@ -18,7 +18,7 @@ public class VendingMachine {
                 System.out.println("Exiting the vending machine. Goodbye!");
                 break;
             }
- 
+  
             totalAmount += moneyInserted;
 
             selectItem(scanner); 
