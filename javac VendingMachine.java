@@ -23,7 +23,7 @@ public class VendingMachine {
 
             selectItem(scanner); 
         }
-
+ 
         scanner.close(); 
     }
 
