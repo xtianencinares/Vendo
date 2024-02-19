@@ -20,7 +20,7 @@ public class VendingMachine {
             }
   
             totalAmount += moneyInserted;
-
+ 
             selectItem(scanner); 
         }
  
