@@ -1,4 +1,4 @@
-import java.util.Scanner;
+ import java.util.Scanner;
 
 public class VendingMachine {
     private static String[] items = {"Cola", "Chips", "Candy"};
