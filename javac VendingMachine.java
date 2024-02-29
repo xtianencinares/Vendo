@@ -4,7 +4,6 @@ public class VendingMachine {
     private static String[] items = {"Cola", "Chips", "Candy"};
     private static double[] prices = {55.0, 21.0, 1.75};
     private static double totalAmount = 0.0;
-
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
   
