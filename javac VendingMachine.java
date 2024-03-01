@@ -12,7 +12,7 @@ public class VendingMachine {
     
             System.out.print("Insert money (0 to exit): "); 
             double moneyInserted = scanner.nextDouble();  
- 
+  
             if (moneyInserted == 0) {
                 System.out.println("Exiting the vending machine. Goodbye!");
                 break;
