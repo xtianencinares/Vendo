@@ -1,4 +1,4 @@
- import java.util.Scanner;
+0 import java.util.Scanner;
 
 public class VendingMachine {
     private static String[] items = {"Cola", "Chips", "Candy"};
@@ -31,7 +31,7 @@ public class VendingMachine {
         for (int i = 0; i < items.length; i++) {
             System.out.println((i + 1) + ". " + items[i] + " - $" + prices[i]);
         }
-        System.out.println("================================================");
+        System.out.println("==============================================");
     }
 
     private static void selectItem(Scanner scanner) {
@@ -53,3 +53,4 @@ public class VendingMachine {
         }
     }
 }
+#UGDASF IUOFHDF 300
